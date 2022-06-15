@@ -8,7 +8,7 @@
 
 In Lab 1 we established our protocol. In this lab, we\'ll put that protocol into practice and start collecting some data.
 
-Your assignment this week will help prepare you for the report that you will ultimately be preparing.
+Your assignment this lab will help prepare you for the report that you will ultimately be preparing.
 
 ## Overview: Lab 3 {-}
 
