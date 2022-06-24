@@ -1,56 +1,38 @@
 # (PART\*) Lab 3 {-}
 
-# Research Project: Part 2 {-}
+# Research Project Part 2 {-}
 
 *Last updated `r Sys.Date()`*
 
-### Data collection {-}
+### RShiny App {-}
 
-In Lab 1 we established our protocol. In this lab, we\'ll put that protocol into practice and start collecting some data.
+For this on-campus lab, you will need to ensure you bring in your laptop in order to complete the Assignment.  You and your partner will work through your data set in the lab. You will need the link below (also available on Canvas) in order to upload your data, set it into the RShiny App, and run the descriptive statistics.  
 
-Your assignment this lab will help prepare you for the report that you will ultimately be preparing.
+https://openscience.ok.ubc.ca/shiny/BIOL-116/
 
-## Overview: Lab 3 {-}
+Though you and your partner will be working through this data set together you will still need to upload independently. That is each person must upload a copy of the assignment or it will be marked as zero.  NO EXCEPTIONS.
 
-During this lab, you will...
+Your TA will assign you data to use for the assignment. Here are links to the data sets that will be used in this lab:
 
-1. Run your first trial and collect data (this was set up in Lab 1)
-2. Prepare your set up for your second trial
+* [Property1_Light_GrowthRate](files/Property1_Light_GrowthRate.csv) 
+* [Property1_Light_Germination](files/Property1_Light_Germination.csv)
+* [Property2_Salinity_GrowthRate](files/Property2_Salinity_GrowthRate.csv) 
+* [Property2_Salinity_Germination](files/Property2_Salinity_Germination.csv)
+* [Property3_pH_GrowthRate](files/Property1_pH_GrowthRate.csv) 
+* [Property3_pH_Germination](files/Property1_pH_Germination.csv)
 
-### Collecting data {-}
+## Recommendation Report Rubric {-}
 
-You will need to set up your data recording tool - you sketched this out in your protocol and now you\'ll need to implement it. Keep in mind that at some point you\'ll need to submit your data as a `.csv` file. How you record your data now might save you time later on.
+As we near completion of the research project, it is a good idea to get familiar with the format and expectations for your final Recommendation Report. 
 
-When collecting data be sure to take notes on any and all observations. These will be very important in helping you interpret your data later on. Take your time when recording and organizing your data.
-
-### Preparing for the next trial {-}
-
-Once you have finished collecting your data you will need to set up your experiment again in order to collect a second round of data during your next synchronous week.
-
-If you are wanting to increase your sample size and thus are doing more trials ensure that you follow the same process as the previous synchronous week. Alternatively, you may be setting up to ask an alternative question. In this case, be sure you have your TA take a look and approve the design / modifications before you leave your lab today.
+See [Lab 5](https://ubco-biology.github.io/BIOL-125-Lab-Manual-Summer/recommendation-report.html) for an overview of the expectations of the Recommendation Report and to review the [grading rubric](https://ubco-biology.github.io/BIOL-125-Lab-Manual-Summer/rubric-lab-5.html). 
 
 # Assignment: Lab 3 {-}
 
-Writing a report can be extremely daunting and confusing especially if you have not written many of them. Many students struggle to know what information goes in what part of a report and in particular what should be included in a results section and what should not.
+Use the [RShiny App](https://openscience.ok.ubc.ca/shiny/BIOL-116/) to complete your assignment.
 
-In order to help you better understand how to write a results section you are asked to edit the results section of the following document:
+To download a copy of the assignment click [here](files/Lab_3_RShiny_Assignment_2.pdf). 
 
-* [Lab-03_Results_Assignment.pdf](files/lab-3_report/Lab-03_Results_Assignment.pdf) (306 KB)
+You may wish to refer back to the section on [Preparing your data](https://ubco-biology.github.io/BIOL-116-Lab-Manual/preparing-your-data.html) from BIOL 116 and the chapter [Tidy Data](https://ubco-biology.github.io/Procedures-and-Guidelines/tidy-data.html) in the Procedures and Guidelines document.
 
-This results example section contains at least 10 errors. Using the rubric for writing a good results section - found on [Canvas](https://canvas.ubc.ca), in [Lab 5](05-Lab-5#rubric.html), and pasted below - and the information provided, you must edit this results section by clearly identifying and explaining each error. Take your time as some of them may not jump out at you immediately.
-
-Though there may be more than one type of error each error only counts as one. For example, if you see that multiple graphs are missing a figure caption that still counts as one error, the error being no caption provided.
-
-<div class = "flag">
-Regardless of the fact that you are working in partners for your experimental project this assignment is an individual assignment.
-</div>
-
-If you decide to work together please be cautious as plagiarism is a serious issue that comes up when students work together and as per your academic misconduct unit from last term has serious academic consequences.
-
-| Criteria | Description |
-| :--- | :--- |
-| Results | Includes graphs / figures. No raw data is provided outside of supplemental. Clearly outlines the findings from the study. Flow is sensible with figures present immediately following paragraphs describing the results of figure. |
-| Figures | Are present. Figure selected is best for this type of data. All axes are labelled with units present where applicable and legends found. All figure present have been discussed in write up. Only averages are being shown. Appropriate statistical measures are present. Figures are clear and easy to interpret. No figures present without being discussed. |
-
-
-
+Upload your completed assignment to [Canvas](https://canvas.ubc.ca/)
