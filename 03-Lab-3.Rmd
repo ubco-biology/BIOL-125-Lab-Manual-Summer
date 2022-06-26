@@ -1,6 +1,6 @@
 # (PART\*) Lab 3 {-}
 
-# Research Project Part 2 {-}
+# Research Project: Part 2 {-}
 
 *Last updated `r Sys.Date()`*
 
@@ -18,14 +18,14 @@ Your TA will assign you data to use for the assignment. Here are links to the da
 * [Property1_Light_Germination](files/Property1_Light_Germination.csv)
 * [Property2_Salinity_GrowthRate](files/Property2_Salinity_GrowthRate.csv) 
 * [Property2_Salinity_Germination](files/Property2_Salinity_Germination.csv)
-* [Property3_pH_GrowthRate](files/Property1_pH_GrowthRate.csv) 
-* [Property3_pH_Germination](files/Property1_pH_Germination.csv)
+* [Property3_pH_GrowthRate](files/Property3_pH_GrowthRate.csv) 
+* [Property3_pH_Germination](files/Property3_pH_Germination.csv)
 
 ## Recommendation Report Rubric {-}
 
 As we near completion of the research project, it is a good idea to get familiar with the format and expectations for your final Recommendation Report. 
 
-See [Lab 5](https://ubco-biology.github.io/BIOL-125-Lab-Manual-Summer/recommendation-report.html) for an overview of the expectations of the Recommendation Report and to review the [grading rubric](https://ubco-biology.github.io/BIOL-125-Lab-Manual-Summer/rubric-lab-5.html). 
+See [Lab 5](l) for an overview of the expectations of the Recommendation Report and to review the [grading rubric](). 
 
 # Assignment: Lab 3 {-}
 
