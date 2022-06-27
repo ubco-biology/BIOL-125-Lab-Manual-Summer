@@ -25,7 +25,7 @@ Your TA will assign you data to use for the assignment. Here are links to the da
 
 As we near completion of the research project, it is a good idea to get familiar with the format and expectations for your final Recommendation Report. 
 
-See [Lab 5](l) for an overview of the expectations of the Recommendation Report and to review the [grading rubric](). 
+See [Lab 4](https://ubco-biology.github.io/BIOL-125-Lab-Manual-Summer/assignment-recommendation-report.html) for an overview of the expectations of the Recommendation Report and to review the [grading rubric](https://ubco-biology.github.io/BIOL-125-Lab-Manual-Summer/recommendation-report-rubric-1.html). 
 
 # Assignment: Lab 3 {-}
 
