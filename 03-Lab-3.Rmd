@@ -29,9 +29,9 @@ See [Lab 4](https://ubco-biology.github.io/BIOL-125-Lab-Manual-Summer/assignment
 
 # Assignment: Lab 3 {-}
 
-Use the [RShiny App](https://openscience.ok.ubc.ca/shiny/BIOL-116/) to complete your assignment.
+Download a copy of the assignment [Lab_3_RShiny_Assignment_2](files/Lab_3_RShiny_Assignment_2.pdf). 
 
-To download a copy of the assignment click [here](files/Lab_3_RShiny_Assignment_2.pdf). 
+Use the [RShiny App](https://openscience.ok.ubc.ca/shiny/BIOL-116/) to complete your assignment.
 
 You may wish to refer back to the section on [Preparing your data](https://ubco-biology.github.io/BIOL-116-Lab-Manual/preparing-your-data.html) from BIOL 116 and the chapter [Tidy Data](https://ubco-biology.github.io/Procedures-and-Guidelines/tidy-data.html) in the Procedures and Guidelines document.
 
