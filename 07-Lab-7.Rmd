@@ -1,6 +1,6 @@
 # (PART\*) Lab 7 {-}
 
-# Animal Systems II {-}
+# Animal Systems II: Part Two {-}
 
 *Last updated `r Sys.Date()`*
 
